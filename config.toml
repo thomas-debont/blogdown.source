@@ -7,7 +7,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
-publishDir = "../thomas.debont.github.io"
+publishDir = "../thomas-debont.github.io"
 relativeurls = true
 
 # Enable comments by entering your Disqus shortname
