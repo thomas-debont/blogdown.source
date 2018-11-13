@@ -27,7 +27,7 @@ weight = 3
 
 Thomas Debont
 <br>
-<small>A short description of myself here</small>
+<small> I'm a 21 years old student in Biology at the University of Mons, Belgium </small>
 <br><br>
 
 <script type="text/javascript">

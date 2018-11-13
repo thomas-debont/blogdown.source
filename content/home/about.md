@@ -40,6 +40,6 @@ weight = 5
 
 # About Me
 
-I study biology at the University of Mons, Belgium, for two years.
+I study biology at the University of Umons for two years.
 I'm a 21 years old man who want learn more about everything and in specific biology. 
 I'm also interested in sword smithing, I worked as a blacksmith during one year.
