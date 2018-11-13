@@ -11,6 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Biology",
+    "Physic",
+    "Sword Smithing",
     "..."
   ]
 
@@ -26,12 +28,18 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
-  year = 2018
+  course = "General education"
+  institution = "College St Vincent, Soignies (Belgium)"
+  year = 2016
+
+  course = "Backsmith and Welder Formation"
+  institution = "Maréchalerie d'Etat, Brussels (Belgium)"
+  year = 2017
 
 +++
 
 # About Me
 
-I am student at the University of Mons, Belgium...
+I study biology at the University of Mons, Belgium, for two years.
+I'm a 21 years old man who want learn more about everything and in specific biology. 
+I'm also interested in sword smithing, I worked as a blacksmith during one year.
