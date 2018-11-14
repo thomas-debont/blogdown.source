@@ -1,4 +1,4 @@
-baseurl = "https://thomas.debont.github.io/"
+baseurl = "https://thomas-debont.github.io/"
 title = "Thomas Debont"
 copyright = "&copy; 2018 Thomas Debont (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
 theme = "hugo-academic"
