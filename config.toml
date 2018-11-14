@@ -51,9 +51,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Thomas.DEBONT@student.umons.ac.be"
-  address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
+  address = "27 rue de Mombriau, 7063 Chaussée-Notre-Dame, Belgium"
   office_hours = "Please, send me an email for appointment"
-  phone = "+32/0XX.XX.XX.XX"
+  phone = "+32 474 90 70 66"
   skype = ""
   telegram = ""
 
@@ -214,10 +214,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "http://github.com/thomas-debont"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "http://twitter.com/thomas-debont"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/TheAnvilGuy"
 
 #  [[params.social]]
 #    icon = "stack-overflow"
