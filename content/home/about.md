@@ -33,7 +33,7 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "Backsmith and Welder Formation"
+  course = "Blacksmith and Welder Formation"
   institution = "Maréchalerie d'Etat, Brussels (Belgium)"
   year = 2017
 
