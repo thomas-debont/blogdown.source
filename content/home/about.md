@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Physic",
+    "Aikido",
     "Sword Smithing",
     "..."
   ]
@@ -32,6 +32,7 @@ weight = 5
   institution = "College St Vincent, Soignies (Belgium)"
   year = 2016
 
+[[education.courses]]
   course = "Backsmith and Welder Formation"
   institution = "Maréchalerie d'Etat, Brussels (Belgium)"
   year = 2017

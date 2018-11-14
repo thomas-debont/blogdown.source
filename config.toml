@@ -212,12 +212,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/thomas-debont"
+    link = "http://github.com/thomas-debont"
 
 #  [[params.social]]
 #    icon = "twitter"
 #    icon_pack = "fa"
-#    link = "//twitter.com/thomas-debont"
+#    link = "http://twitter.com/thomas-debont"
 
 #  [[params.social]]
 #    icon = "stack-overflow"
